@@ -1,0 +1,6 @@
+{
+  "name": "ScrapCycle",
+  "description": "Doorstep scrap collection connecting homeowners with certified recycling centers, inspired by ScrapUncle & The Kabadiwala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
